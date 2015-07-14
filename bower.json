@@ -23,6 +23,7 @@
   "devDependencies": {
     "jquery": "^2.0.0",
     "ember": "^1.10.0",
-    "loader.js": "~3.2.1"
+    "loader.js": "~3.2.1",
+    "ember-dev": "slindberg/ember-dev#d89166343d8451412626bfcc5b6f0a8a7acae668"
   }
 }
